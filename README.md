@@ -1,4 +1,4 @@
-Get ChatGPT API, make ChatGPT at your fingertips
+❤️ Get ChatGPT API, make ChatGPT at your fingertips
 
 - Official Website: https://getgptapi.com/
 - How to Use: https://hollow-pecorino-6e7.notion.site/How-to-Use-befd7b2fbbe74788941a9695ba8a8d15
